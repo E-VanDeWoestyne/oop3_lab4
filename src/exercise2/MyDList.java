@@ -1,12 +1,11 @@
 package exercise2;
 
 /**
- * MyAList.java
+ * MyDList.java
  * 
  * @author Ethan Van De Woestyne
  * @version 1.0
- * 
- * Class Definition: 
+ *  
  */
 
 public class MyDList<E>

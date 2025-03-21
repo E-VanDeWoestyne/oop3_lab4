@@ -97,9 +97,7 @@ public class Driver
 		System.out.println( "\n\n" );
 
 		
-		// Below is commented out for testing MyAList, remove when ready -Mace
-		
-		/*
+
 		
 		// testing DList implementation
 		MyDList<Integer> dList = new MyDList<>();
@@ -160,7 +158,7 @@ public class Driver
 		// testing isEmpty()
 		System.out.println( "IsEmpty? " + dList.isEmpty() );
 
-*/
+
 
 	}
 

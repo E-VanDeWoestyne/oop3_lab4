@@ -10,7 +10,6 @@ import java.util.Iterator;
  * @author Mace Howald
  * @version 1.1
  * 
- * Class Definition: 
  */
 
 public class MyAList<E> implements Iterable<E>
